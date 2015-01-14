@@ -1,0 +1,1 @@
+bin/kana_notify [user] [%text]
