@@ -1,1 +1,0 @@
-Recevoir des notifications directement depuis l'interface web

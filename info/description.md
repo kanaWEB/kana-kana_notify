@@ -1,1 +1,0 @@
-Receive notifications on the web interface

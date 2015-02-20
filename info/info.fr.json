@@ -1,0 +1,12 @@
+{
+   "description" : "Recevoir des notifications directement depuis l'interface web",
+   "name" : "Notifications Kana",
+   "tags" : {
+      "push" : {},
+      "notifications" : {},
+      "kana" : {},
+      "web" : {},
+      "chat" : {}
+   },
+   "type" : "gpios"
+}

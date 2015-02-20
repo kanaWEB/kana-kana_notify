@@ -1,1 +1,0 @@
-push,notifications,kana,web,chat

@@ -1,0 +1,15 @@
+{
+	"default": {
+		"command": "kana_notify",
+		"usage" : "kana_notify user text",
+		"args": {
+			"user": {
+				"type": "Actions"
+			},
+			"text": {
+				"type": "Actions",
+				"modifier": "Data"
+			}
+		}
+	}
+}

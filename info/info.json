@@ -1,0 +1,12 @@
+{
+   "description" : "Receive notifications on the web interface",
+   "name" : "Kana Notifications",
+   "tags" : {
+      "push" : {},
+      "notifications" : {},
+      "kana" : {},
+      "web" : {},
+      "chat" : {}
+   },
+   "type" : "gpios"
+}
